@@ -1,9 +1,7 @@
 # Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
-
-Developed By: ALAN ZION H
-
-Reg No: 212223240004
+## Ex08-Windows-basic-commands-batchscript
+## Developed By: ALAN ZION H
+## Reg No: 212223240004
 
 # AIM:
 To execute Windows basic commands and batch scripting
